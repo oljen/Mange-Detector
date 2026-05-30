@@ -1,1 +1,1 @@
-training policies through mujuco, just storing things here
+side project to help british wildlife in my spare time
